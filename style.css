@@ -1,0 +1,76 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgb(135, 253, 247);
+    transition: 0.3s;
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    margin: 30px;
+    padding: 30px;
+  }
+  
+  .random-image {
+    display: flex;
+    flex-direction: column;
+    flex: 0.4;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #player {
+    margin: 30px;
+  }
+  
+  .col {
+    display: flex;
+    flex-direction: column;
+    flex: 0.3;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .rollnow {
+    padding: 10px 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #03a9f4;
+    color: white;
+  }
+  .main {
+    text-align: center;
+    /* font-weight: bold; */
+    margin-top: 70px;
+  }
+  .hero-main {
+    margin-top: 20px;
+    margin-left: 190px;
+    border: 1px solid;
+    width: 980px;
+    height: 620px;
+    background-color: rgb(153, 211, 193);
+    border-radius: 20px;
+  }
+  body {
+    background-color: rgb(175, 170, 231) !important;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    margin: 50px 0;
+  }
+  
+  .reset {
+    padding: 10px 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgb(235, 18, 54);
+    color: white;
+  }
+  .reset{
+      background-color: rgb(224, 41, 68);
+  }
+  body{
+    overflow: hidden;
+  }
+  
