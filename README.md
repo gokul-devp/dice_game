@@ -22,7 +22,7 @@ Welcome to the Dice Game! This is a simple two-player game where the goal is to 
 - `index.html`: The main HTML file for the game.
 - `styles.css`: CSS file for styling the game interface.
 - `script.js`: JavaScript file containing game logic and event handling.
-- `images/`: Folder containing dice images.
+- `dice_images/`: Folder containing dice images.
 
 ## How to Contribute
 
